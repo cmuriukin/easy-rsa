@@ -83,6 +83,7 @@ cd easy-rsa/easyrsa3
 
 Step 2: Copy Certificates to Central Folder:
 
+
 mkdir ~/custom_folder/
 cp pki/ca.crt ~/custom_folder/
 cp pki/issued/server.crt ~/custom_folder/
